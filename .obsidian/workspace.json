@@ -16,8 +16,37 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "25468651da89d172",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Организация работы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Организация работы"
+            }
+          },
+          {
+            "id": "c8e9e65c55cb38ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Организация работы.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Организация работы"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -166,10 +195,19 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "27a9a455bcda8572",
+  "active": "c8e9e65c55cb38ca",
   "lastOpenFiles": [
+    "Pasted image 20250920190945.png",
     "Главная.md",
+    "Excalidraw/Пример флоучарта.canvas",
+    "Организация работы.md",
+    "Pasted image 20250920190647.png",
+    "Untitled.md",
     "Excalidraw/Интерфейс.excalidraw.md",
+    "Excalidraw/Drawing 2025-09-20 19.05.27.excalidraw.md",
+    "Pasted image 20250920190401.png",
+    "Система.md",
+    "Организация работы 1.md",
     "Юниты/Стрелок.md",
     "Excalidraw",
     "Юниты/Юнит.md",

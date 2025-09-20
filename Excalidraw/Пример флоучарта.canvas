@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"e510c828130333b7","type":"text","text":"Конец уровня","x":-320,"y":-60,"width":250,"height":60},
+		{"id":"1dcf04f99fba540b","x":20,"y":-60,"width":250,"height":60,"type":"text","text":"Получение случайного [[Система предметов|Предмета]]"},
+		{"id":"93cdb822906c2d33","x":380,"y":-60,"width":250,"height":60,"type":"text","text":"Магазин\n"},
+		{"id":"6ecba94e0110cc77","x":305,"y":-540,"width":400,"height":400,"type":"file","file":"Excalidraw/Интерфейс.excalidraw.md"}
+	],
+	"edges":[
+		{"id":"4d93d76f2be31e84","fromNode":"e510c828130333b7","fromSide":"right","toNode":"1dcf04f99fba540b","toSide":"left"},
+		{"id":"c721fd0c34a0e4a0","fromNode":"1dcf04f99fba540b","fromSide":"right","toNode":"93cdb822906c2d33","toSide":"left"},
+		{"id":"77e3fe846f223ceb","fromNode":"93cdb822906c2d33","fromSide":"top","toNode":"6ecba94e0110cc77","toSide":"bottom","label":"Интерфейс"},
+		{"id":"f901cd10ce109a33","fromNode":"93cdb822906c2d33","fromSide":"bottom","toNode":"e510c828130333b7","toSide":"bottom"}
+	]
+}
