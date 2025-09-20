@@ -4,27 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "d90cd0bc7b9f429e",
+        "id": "d936a569245024f5",
         "type": "tabs",
         "children": [
           {
-            "id": "49db9ae4088d1015",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
-          }
-        ]
-      },
-      {
-        "id": "684d626ac0cd1789",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "cd1a82699e45ff1e",
+            "id": "27a9a455bcda8572",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -178,11 +162,28 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": false
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "49db9ae4088d1015",
+  "active": "27a9a455bcda8572",
   "lastOpenFiles": [
+    "Главная.md",
+    "Excalidraw/Интерфейс.excalidraw.md",
+    "Юниты/Стрелок.md",
+    "Excalidraw",
+    "Юниты/Юнит.md",
+    "Юниты/Untitled",
+    "Предметы/Меч.md",
+    "Предметы/Система предметов.md",
+    "Юниты/Танк.md",
+    "Юниты",
+    "Предметы/Лук.md",
+    "Предметы/Молот.md",
+    "Предметы",
+    "Resources/cube/Cube.fbx",
+    "Resources/cube",
+    "Resources",
     "Welcome.md"
   ]
 }
